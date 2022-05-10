@@ -1,2 +1,3 @@
 # api-v1
-Holder for API v1 
+
+This folder contains QuranReflect APIs v1
